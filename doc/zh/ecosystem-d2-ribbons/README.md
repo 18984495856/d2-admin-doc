@@ -27,7 +27,7 @@ D2 Ribbons 是一套为开发者准备的开源社区绶带资源，你你可以
 
 ![Snip20180711_32](https://qiniucdn.fairyever.com/Snip20180711_32.png)
 
-于是之后我就画了大概半天的事件，画了一套 ribbons 给以后用，自己用，也希望大家能用到，不仅有 github，还有 gitlab 和码云的版本，暂时只做了这些，以后有好的想法了再添加。
+于是之后我就画了大概半天的时间，画了一套 ribbons 给以后用，自己用，也希望大家能用到，不仅有 github，还有 gitlab 和码云的版本，暂时只做了这些，以后有好的想法了再添加。
 
 ![Snip20180711_27](https://qiniucdn.fairyever.com/Snip20180711_27.png)
 ![Snip20180711_29](https://qiniucdn.fairyever.com/Snip20180711_29.png)
